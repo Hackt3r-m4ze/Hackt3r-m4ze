@@ -11,7 +11,7 @@
 <h3 align="left">Want to know more about my work</h3>
 <h4 align="left">Check out my other social media handles</h4>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/m-sathvika-sai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@m-sathvika-sai" height="30" width="40" <h6>Know more about my Professional Work Space</h6></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/m-sathvika-sai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@m-sathvika-sai" height="30" width="40" <h6>Know more about my Work Space</h6></a>
 </p>
 
 <p align="left">
